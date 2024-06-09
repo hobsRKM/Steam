@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/steam",
+    "name": "hobsRKMSocialite/steam",
     "description": "Steam OpenID Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
